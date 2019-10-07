@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1221976451 source:c:\documents and settings\zhuangyandell\my documents\codeblocks projects\hellooovirtual\main.cpp
+	<iostream>
+	<string>
+

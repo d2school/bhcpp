@@ -1,0 +1,13 @@
+/*这是我的第一个C++程序*/
+#include <iostream>
+
+using namespace std;
+
+void foo();
+
+int main() 
+{
+    
+    cout << "Hello world!" << endl;
+    return 0;
+}

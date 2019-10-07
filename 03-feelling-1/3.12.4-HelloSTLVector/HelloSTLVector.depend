@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1222682438 source:c:\documents and settings\zhuangyandell\my documents\codeblocks projects\hellostlvector\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

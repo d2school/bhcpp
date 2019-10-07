@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1223735722 source:c:\documents and settings\zhuangyandell\my documents\codeblocks projects\hellostl_scoremanagever1_02\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<string>
+	<algorithm>
+
+1424349953 source:d:\bhcpp\project\feeling_1\hellostl_scoremanagever1_02\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<string>
+	<algorithm>
+
+1424349953 source:c:\cpp\projects\bhcpp\github\bhcpp\03-feelling-1\hellostl_scoremanagever1_02\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<string>
+	<algorithm>
+
