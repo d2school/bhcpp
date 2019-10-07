@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1223956528 source:c:\documents and settings\zhuangyandell\my documents\codeblocks projects\hellostl_scoremanagever1_01\main.cpp
-	<iostream>
-	<list>
-	<vector>
-	<string>
-

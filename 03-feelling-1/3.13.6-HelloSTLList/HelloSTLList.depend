@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1223054189 source:c:\documents and settings\zhuangyandell\my documents\codeblocks projects\hellostllist\main.cpp
-	<iostream>
-	<list>
-
-1263054472 source:c:\cpp\projects\bhcpp\github\bhcpp\03-feelling-1\hellostllist\main.cpp
-	<iostream>
-	<list>
-

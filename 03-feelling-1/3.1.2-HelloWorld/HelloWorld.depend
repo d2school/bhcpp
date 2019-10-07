@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1220347708 source:c:\documents and settings\zhuangyandell\my documents\codeblocks projects\helloworld\main.cpp
-	<iostream>
-
-1439737947 source:d:\bhcpp\project\feeling_1\helloworld\main.cpp
-	<iostream>
-	<string>
-
