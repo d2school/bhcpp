@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxDialog" name="ProjectSettingDemoDialog">
+		<title>wxWidgets app</title>
+		<size>345,214</size>
+		<style>wxDEFAULT_DIALOG_STYLE|wxRESIZE_BORDER</style>
+		<handler function="OnResize" entry="EVT_SIZE" />
+	</object>
+</wxsmith>

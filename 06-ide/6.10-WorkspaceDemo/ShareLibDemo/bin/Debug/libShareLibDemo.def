@@ -1,0 +1,3 @@
+EXPORTS
+    _Z14from_share_libii @1
+    _get_output_format @2

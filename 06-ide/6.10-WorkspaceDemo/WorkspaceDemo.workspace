@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="工作空间示例">
+		<Project filename="AppDemo/AppDemo.cbp">
+			<Depends filename="ShareLibDemo/ShareLibDemo.cbp" />
+			<Depends filename="StaticLibDemo/StaticLibDemo.cbp" />
+		</Project>
+		<Project filename="ShareLibDemo/ShareLibDemo.cbp" />
+		<Project filename="StaticLibDemo/StaticLibDemo.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
