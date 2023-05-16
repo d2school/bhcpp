@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="SyncCppAndCStdIO">
+		<Project filename="01-SyncInput/SyncInput.cbp" />
+		<Project filename="02-SyncOutput/SyncOutput.cbp" />
+		<Project filename="03-PerformancePK/PerformancePK.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
