@@ -17,7 +17,7 @@ int main()
 
 
     clock_t end = clock();
-    cout << "\n" << (end - beg) * 1000 / CLOCKS_PER_SEC << "ms." <<endl; // CLOCKS_PER_SEC 每秒中包含多少个 clock
+    cout << "\n" << (end - beg) * 1000 / CLOCKS_PER_SEC << "ms." <<endl; // CLOCKS_PER_SEC 姣忕涓寘鍚灏戜釜 clock
 
 
     return 0;
