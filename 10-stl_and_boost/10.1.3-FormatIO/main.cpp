@@ -5,7 +5,6 @@
 
 using namespace std;
 
-// C风格格式化输入输出，注意 name 数组越界问题
 void testCStyleFormatIO()
 {
     char c = '$';
@@ -112,7 +111,7 @@ void testCPPQuoted()
     string name;
     int age;
 
-    cout << "please input your name and age: ";
+    cout << "please input your name and age: "; //建议测试: Tom 5 或 "Peppa Pig" 8
     cin >> quoted(name) >> age;
 
     cout << "hello " << name << ", you are " << age << endl;
