@@ -17,7 +17,7 @@ int main()
 
 
     clock_t end = clock();
-    cout << "\n" << (end - beg) * 1000 / CLOCKS_PER_SEC << "ms." <<endl; //ºê CLOCKS_PER_SEC : Ã¿ÃëÖÐ°üº¬¶àÉÙ¸ö clock
+    cout << "\n" << (end - beg) * 1000 / CLOCKS_PER_SEC << "ms." <<endl; //å® CLOCKS_PER_SEC : æ¯ç§’ä¸­åŒ…å«å¤šå°‘ä¸ª clock
 
 
     return 0;
